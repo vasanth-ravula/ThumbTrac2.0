@@ -1,0 +1,16 @@
+# Build outputs
+build/
+.pio/
+.pioenvs/
+*.bin
+*.elf
+*.map
+# Archives / snapshots
+*.zip
+# IDE / VCS leftovers
+.vscode/
+.theia/
+vssver2.scc
+*.code-workspace
+# Local secrets
+secrets.h
